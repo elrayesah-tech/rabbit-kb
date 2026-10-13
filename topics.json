@@ -1,0 +1,380 @@
+[
+ {
+  "id": "otp-issue",
+  "title": "OTP issue",
+  "group": "General inquiries",
+  "bucket": "Account & App",
+  "hint": "OTP issue If the number is not provided, request it. Generate an OTP through the Dashboard. Send the OTP via the user's preferred channel (SMS, Call, or WhatsApp) and inform the user that the OTP is v"
+ },
+ {
+  "id": "wrong-phone-number",
+  "title": "Wrong phone number",
+  "group": "General inquiries",
+  "bucket": "Account & App",
+  "hint": "Wrong phone number Request a screenshot from the user to verify the error message. Instruct the user to enter their phone number starting with \\\"1\\\", as the country code is already pre-filled."
+ },
+ {
+  "id": "tech-issue",
+  "title": "Tech issue",
+  "group": "General inquiries",
+  "bucket": "Account & App",
+  "hint": "Tech issue If the user reports an issue with signing up, logging in, opening the camera, referral share link is not working, or accessing another app feature: Ask the user to send a screenshot of the "
+ },
+ {
+  "id": "what-s-the-e-mail",
+  "title": "What’s the E-mail",
+  "group": "General inquiries",
+  "bucket": "Account & App",
+  "hint": "What’s the E-mail Verify the user's device type through Freshchat. Provide the user with device-specific steps on how to get their registered email address (e.g., Gmail or iCloud)."
+ },
+ {
+  "id": "how-to-start-a-ride",
+  "title": "How to start a ride",
+  "group": "General inquiries",
+  "bucket": "Ride Basics",
+  "hint": "How to start a ride Ensure location is enabled. Locate the nearest available scooter through the app. Select the scooter and tap Get Directions to navigate to its location. Scan the scooter's QR code."
+ },
+ {
+  "id": "how-to-end-a-ride",
+  "title": "How to end a ride",
+  "group": "General inquiries",
+  "bucket": "Ride Basics",
+  "hint": "How to end a ride Securely lock the scooter to a fixed object, such as a pole or tree. Tap End Ride in the app. Take a clear photo showing the scooter properly locked. Note: If a ride receipt is displ"
+ },
+ {
+  "id": "how-to-find-a-scooter",
+  "title": "How to find a scooter",
+  "group": "General inquiries",
+  "bucket": "Ride Basics",
+  "hint": "How to find a scooter Inform the user about the currently available service areas. Ensure the user’s location is enabled. Locate the nearest available scooter via the app. Select the scooter and tap G"
+ },
+ {
+  "id": "referrals",
+  "title": "Referrals",
+  "group": "General inquiries",
+  "bucket": "Promo Codes",
+  "hint": "Referrals How to use it Open the side menu in the app. Select Free Balance. Tap Share Your Code and send the referral link to your friends. Your friend must download the app using the shared link and "
+ },
+ {
+  "id": "reservation",
+  "title": "Reservation",
+  "group": "General inquiries",
+  "bucket": "Ride Basics",
+  "hint": "Reservation What’s the reservation The reservation feature allows users to reserve a scooter before reaching it, preventing others from unlocking or using it. Reservation fees are: 5 minutes: 9 EGP 10"
+ },
+ {
+  "id": "can-t-find-the-scooter",
+  "title": "Can’t find the scooter",
+  "group": "General inquiries",
+  "bucket": "Ride Basics",
+  "hint": "Can’t find the scooter Request the scooter code if it has not been provided by the user. Check the scooter's availability in the Dashboard. If the scooter is available, share its updated location and "
+ },
+ {
+  "id": "total-number-of-rides",
+  "title": "Total Number of Rides",
+  "group": "General inquiries",
+  "bucket": "Account & App",
+  "hint": "Total Number of Rides Check the user's total number of rides from the user page in the Dashboard. Guide the user on how to view their total rides in the app by navigating to Profile"
+ },
+ {
+  "id": "fraud",
+  "title": "Fraud",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "Fraud Someone Else Used the Account or Started a Ride Instruct the user to delete their account from the Profile tab. This will automatically sign them out of all devices. After the account is deleted"
+ },
+ {
+  "id": "complaint-follow-up",
+  "title": "Complaint Follow-up",
+  "group": "General inquiries",
+  "bucket": "Requests & Support",
+  "hint": "Complaint Follow-up Check the app to verify the complaint status and any available feedback. If the complaint has been submitted: If feedback is available, inform the user of the outcome. If no feedba"
+ },
+ {
+  "id": "updating-account-information",
+  "title": "Updating Account Information",
+  "group": "General inquiries",
+  "bucket": "Account & App",
+  "hint": "Updating Account Information Users can only update their email address through the Profile section in the side menu. Phone numbers cannot be changed. If the user wants to use a different phone number,"
+ },
+ {
+  "id": "tour-inquiry-grandfather",
+  "title": "Tour inquiry (Grandfather)",
+  "group": "General inquiries",
+  "bucket": "Requests & Support",
+  "hint": "Tour inquiry (Grandfather) Inform the user that registration is free. The minimum age requirement is 21. Each participant must ride a scooter. Users can sign up through the form in our Instagram bio. "
+ },
+ {
+  "id": "external-maintenance",
+  "title": "External Maintenance",
+  "group": "General inquiries",
+  "bucket": "Requests & Support",
+  "hint": "External Maintenance Collect the following information from the user: Scooter model. Description of the issue. Contact phone number. Submit the External Maintenance Request form through the app. Infor"
+ },
+ {
+  "id": "pricing-inquiry",
+  "title": "Pricing inquiry",
+  "group": "General inquiries",
+  "bucket": "Pricing",
+  "hint": "Pricing inquiry Ask the user for the scooter type and the area they plan to ride in. If the user provides both details, share the applicable pricing and guide them on where to find pricing information"
+ },
+ {
+  "id": "ride-cost",
+  "title": "Ride cost",
+  "group": "General inquiries",
+  "bucket": "Pricing",
+  "hint": "Ride cost Ask the user which ride they are referring to if it has not been specified. Check the ride bill in the Dashboard and provide the user with the billing details. Explain the applicable pricing"
+ },
+ {
+  "id": "prepaid",
+  "title": "Prepaid",
+  "group": "General inquiries",
+  "bucket": "Pricing",
+  "hint": "Prepaid Inform the user that they must have a minimum balance of 30 EGP available before starting each ride, even if they have a promo code applied. If the user is paying by card, explain the Auto Cha"
+ },
+ {
+  "id": "payment-methods",
+  "title": "Payment Methods",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "Payment Methods The following payment methods are currently supported: Debit cards Credit cards Meeza cards Telda cards International cards Digital wallets The following payment methods are not suppor"
+ },
+ {
+  "id": "how-to-charge-add-a-payment-method",
+  "title": "How to charge/ add a payment method",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "How to charge/ add a payment method Ask the user which payment method they will use, then provide the appropriate steps accordingly. Using an E-Wallet Open the Side Menu and select Wallet. Tap Add Bal"
+ },
+ {
+  "id": "how-to-remove-the-card",
+  "title": "How to remove the card",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "How to remove the card Ask the user for the reason they want to remove the saved card and assist with any related issue, if applicable. If the user requests to remove the card, remove it from the User"
+ },
+ {
+  "id": "auto-charge",
+  "title": "Auto charge",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "Auto charge Open the Side Menu and select Wallet. Locate the Auto Charge feature. Enable or disable Auto Charge based on your preference. Note: The Auto Charge feature is available only for bank cards"
+ },
+ {
+  "id": "settle-a-negative-balance",
+  "title": "Settle a Negative Balance",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "Settle a Negative Balance Open the Side Menu and select Wallet. Tap Settle. Complete the payment process to clear the negative balance. Note: If the user is paying with a bank card, you can settle the"
+ },
+ {
+  "id": "balance-transfer",
+  "title": "Balance Transfer",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "Balance Transfer Balance transfers are not supported. However, the following exceptions apply: If the user has a linked account with a negative balance that is no longer accessible, the balance may be"
+ },
+ {
+  "id": "check-wallet-balance",
+  "title": "Check Wallet Balance",
+  "group": "General inquiries",
+  "bucket": "Account & App",
+  "hint": "Check Wallet Balance Check the user's wallet balance from the User page in the Dashboard and inform them of the available balance. Guide the user on how to view their wallet balance in the app by navi"
+ },
+ {
+  "id": "can-t-add-a-card",
+  "title": "Can’t add a card",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "Can’t add a card Ask the user for the card type and issuing bank, and verify that the card is supported. Confirm that the user has at least 100 EGP available in the account. Ask the user to try adding"
+ },
+ {
+  "id": "failed-transaction",
+  "title": "Failed transaction",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "Failed transaction 1. Amount Not Deducted Check the transaction Status in the Transactions tab of the Dashboard. It should show Failed. Review the Instant/Last Gateway Message to identify the reason f"
+ },
+ {
+  "id": "pending-transaction",
+  "title": "Pending transaction",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "Pending transaction Request a screenshot from the user's banking app or digital wallet showing the successful payment. If the payment was deducted: Manually credit the amount to the user's wallet. Sub"
+ },
+ {
+  "id": "dispute",
+  "title": "Dispute",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "Dispute If the user reports that their wallet balance has disappeared or been deducted, follow these steps: Go to the User Page. Open Wallet and check the reason for the deduction. If the deduction is"
+ },
+ {
+  "id": "refund-request-to-a-bank-card-or-digital-wallet",
+  "title": "Refund Request to a Bank Card or Digital Wallet",
+  "group": "General inquiries",
+  "bucket": "Payments & Wallet",
+  "hint": "Refund Request to a Bank Card or Digital Wallet Before processing the refund, verify that: Ask the user for the reason and assist with any related issue, if applicable. The user has a wallet balance e"
+ },
+ {
+  "id": "auto-end-warning",
+  "title": "Auto end warning",
+  "group": "Scooter Issues",
+  "bucket": "Scooter & Fines",
+  "hint": "Auto end warning Scooter Was Moving Slowly Open the Ride Logs for the ride. Check whether an Auto End Warning was triggered. If an Auto End Warning is found: Inform the user that the scooter's speed w"
+ },
+ {
+  "id": "how-to-find-redeem-a-promo-code",
+  "title": "How to find/redeem a promo code",
+  "group": "General inquiries",
+  "bucket": "Promo Codes",
+  "hint": "How to find/redeem a promo code Find Available Promo Codes Open the Side Menu. Select Notifications to view the available promo codes. Redeem a Promo Code Open the Side Menu and select Wallet. Tap Add"
+ },
+ {
+  "id": "not-receiving-a-promo-code",
+  "title": "Not receiving a promo code",
+  "group": "General inquiries",
+  "bucket": "Promo Codes",
+  "hint": "Not receiving a promo code Not Receiving Promo Code Notifications Confirm with the user whether app notifications are enabled in their device settings. If Notifications Are Enabled Check the Promos ta"
+ },
+ {
+  "id": "requesting-a-code-credit",
+  "title": "Requesting a code/credit",
+  "group": "General inquiries",
+  "bucket": "Promo Codes",
+  "hint": "Requesting a code/credit Requesting a Free Promo Code Inform the user that Customer Support does not provide promo codes directly, but you will check whether they are eligible for any active promotion"
+ },
+ {
+  "id": "inquiry-about-receiving-a-promo-code-after-completing-the-required-rides",
+  "title": "Inquiry About Receiving a Promo Code After Completing the Required Rides",
+  "group": "General inquiries",
+  "bucket": "Promo Codes",
+  "hint": "Inquiry About Receiving a Promo Code After Completing the Required Rides Verify that the user has met all the required promotion conditions. If the user is eligible, provide the promo code. If the use"
+ },
+ {
+  "id": "promo-code-conditions",
+  "title": "Promo code conditions",
+  "group": "General inquiries",
+  "bucket": "Promo Codes",
+  "hint": "Promo code conditions Ask the user for the promo code if it has not been provided. In the Dashboard, navigate to Promo Codes. Search for the promo code and review its terms and conditions. Explain the"
+ },
+ {
+  "id": "unable-to-save-a-promo-code",
+  "title": "Unable to Save a Promo Code",
+  "group": "General inquiries",
+  "bucket": "Promo Codes",
+  "hint": "Unable to Save a Promo Code The user is not eligible Ask the user for the promo code if it has not been provided. If the user is unable to save a promo code, first verify whether they are eligible for"
+ },
+ {
+  "id": "rabbit-prime",
+  "title": "Rabbit Prime",
+  "group": "General inquiries",
+  "bucket": "Rabbit Prime",
+  "hint": "Rabbit Prime Rabbit Prime is a subscription that automatically renews unless canceled. For 79 EGP, Prime members receive: Free scooter unlocking. 15 free scooter reservations. How to Subscribe to Rabb"
+ },
+ {
+  "id": "prime-cancellation-request-complaint",
+  "title": "Prime Cancellation Request (Complaint)",
+  "group": "General inquiries",
+  "bucket": "Rabbit Prime",
+  "hint": "Prime Cancellation Request (Complaint) Ask the user for the reason they want to cancel the Prime subscription and explain the Prime benefits. Check the user's account to verify whether any Prime benef"
+ },
+ {
+  "id": "new-area-expansion-request",
+  "title": "New Area/ Expansion Request",
+  "group": "General inquiries",
+  "bucket": "Requests & Support",
+  "hint": "New Area/ Expansion Request Ask the user to provide the following information if it has not been specified: The area name. The street or specific location, if available. A screenshot of the location f"
+ },
+ {
+  "id": "service-restricted-area-request",
+  "title": "Service Restricted Area Request",
+  "group": "General inquiries",
+  "bucket": "Requests & Support",
+  "hint": "Service Restricted Area Request Ask the user for the reason for the request in detail. If the reason is valid: Ask the user to provide a screenshot of the restricted area from the app's map. Ask the u"
+ },
+ {
+  "id": "map-zones",
+  "title": "Map Zones",
+  "group": "General inquiries",
+  "bucket": "Ride Basics",
+  "hint": "Map Zones Educate the user about the different map zones in the app: Green Zone: You can ride and park the scooter freely. Red Zone: You can ride within the zone, but you cannot end the ride or park t"
+ },
+ {
+  "id": "how-to-verify-your-account",
+  "title": "How to Verify Your Account",
+  "group": "General inquiries",
+  "bucket": "Verification",
+  "hint": "How to Verify Your Account Open the Side Menu. Go to Your Profile. Tap Verify. Capture a clear photo of your identification document. Take a selfie to complete the verification process. Note: You can "
+ },
+ {
+  "id": "pending-id-verification-request",
+  "title": "Pending ID Verification Request",
+  "group": "General inquiries",
+  "bucket": "Verification",
+  "hint": "Pending ID Verification Request Open the User page in the Dashboard. Navigate to the ID Verifications tab. Click View Verification Status. Review the submitted verification and ensure that: The selfie"
+ },
+ {
+  "id": "rejected-id-verification-request",
+  "title": "Rejected ID Verification Request",
+  "group": "General inquiries",
+  "bucket": "Verification",
+  "hint": "Rejected ID Verification Request Open the User page in the Dashboard. Navigate to the ID Verifications tab or ID Verification Transactions. Review the rejection reason and inform the user accordingly."
+ },
+ {
+  "id": "id-verification-removal",
+  "title": "ID Verification Removal",
+  "group": "General inquiries",
+  "bucket": "Verification",
+  "hint": "ID Verification Removal Ask the user for the reason for removing the ID verification. Check the user's account and history before proceeding. If the account is new and the reason is valid: Add the use"
+ },
+ {
+  "id": "unable-to-start-a-ride",
+  "title": "Unable to Start a Ride",
+  "group": "General inquiries",
+  "bucket": "Account & App",
+  "hint": "Unable to Start a Ride Request a screenshot of the error message. If the error message is \\\"Not Available\\\": Ask for the scooter code if it has not been provided. In the Dashboard, navigate to Assets "
+ },
+ {
+  "id": "can-t-start-a-ride-lock-issue",
+  "title": "Can’t start a ride (Lock issue)",
+  "group": "Scooter Issues",
+  "bucket": "Ride Problems",
+  "hint": "Can’t start a ride (Lock issue) During the Ride From the User page, select the active vehicle and click Force Unlock. If it works: Submit a Live Ops ticket, including the full case details. Refund the"
+ },
+ {
+  "id": "can-t-end-the-ride",
+  "title": "Can’t end the ride",
+  "group": "Scooter Issues",
+  "bucket": "Ride Problems",
+  "hint": "Can’t end the ride Lock issue During the Ride From the User page, select the active vehicle, verify that the scooter's lock status is Unlocked, then click Force Unlock. If it works: Check the app firs"
+ },
+ {
+  "id": "user-issues-due-to-lack-of-education",
+  "title": "User Issues Due to Lack of Education",
+  "group": "Scooter Issues",
+  "bucket": "Scooter & Fines",
+  "hint": "User Issues Due to Lack of Education Opened the Scooter by Mistake Check the Location History to verify whether the scooter moved. If the scooter moved: End the ride and charge the user. Educate the u"
+ },
+ {
+  "id": "scooter-issues",
+  "title": "Scooter issues",
+  "group": "Scooter Issues",
+  "bucket": "Scooter & Fines",
+  "hint": "Scooter issues There are two types of issues: Type 1: Non-Critical Scooter Issues If the user complains about any of the following: Flashlight Handle Vibrating Flap Mobile holder Bell Signs Kickstand "
+ },
+ {
+  "id": "fyi",
+  "title": "FYI",
+  "group": "General inquiries",
+  "bucket": "Requests & Support",
+  "hint": "FYI Rides & Scooters Each account is allowed to initiate only one active ride at a time. There are three scooter models available: Navee, Yimi, and Kuickwheel ; this information is for internal use on"
+ },
+ {
+  "id": "qa-tips",
+  "title": "QA tips",
+  "group": "General inquiries",
+  "bucket": "Requests & Support",
+  "hint": "QA tips Chats & Escalation Spam Chats If the user does not mention any issue and remains idle, send a greeting: \\\"Hello! How may I help you?\\\" If there is no response after 3 minutes, send the Since s"
+ }
+]
