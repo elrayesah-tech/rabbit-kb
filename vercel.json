@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/:slug", "destination": "/index.html" }
+    { "source": "/((?!api/|topics\\.json|index\\.html).*)", "destination": "/index.html" }
   ]
 }
