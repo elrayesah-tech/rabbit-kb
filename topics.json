@@ -4,377 +4,431 @@
   "title": "OTP issue",
   "group": "General inquiries",
   "bucket": "Account & App",
-  "hint": "OTP issue If the number is not provided, request it. Generate an OTP through the Dashboard. Send the OTP via the user's preferred channel (SMS, Call, or WhatsApp) and inform the user that the OTP is v"
+  "hint": "OTP issue If the number is not provided, request it. Generate an OTP through the Dashboard. Send the OTP via the user's preferred channel (SMS, Call, or WhatsApp) and inform the user that the OTP is v",
+  "text": "OTP issue If the number is not provided, request it. Generate an OTP through the Dashboard. Send the OTP via the user's preferred channel (SMS, Call, or WhatsApp) and inform the user that the OTP is valid for 10 minutes and must be used before it expires. Note: Make sure to double check that both the user's phone number and country code are entered correctly."
  },
  {
   "id": "wrong-phone-number",
   "title": "Wrong phone number",
   "group": "General inquiries",
   "bucket": "Account & App",
-  "hint": "Wrong phone number Request a screenshot from the user to verify the error message. Instruct the user to enter their phone number starting with \\\"1\\\", as the country code is already pre-filled."
+  "hint": "Wrong phone number Request a screenshot from the user to verify the error message. Instruct the user to enter their phone number starting with \"1\", as the country code is already pre-filled.",
+  "text": "Wrong phone number Request a screenshot from the user to verify the error message. Instruct the user to enter their phone number starting with \"1\", as the country code is already pre-filled."
  },
  {
   "id": "tech-issue",
   "title": "Tech issue",
   "group": "General inquiries",
   "bucket": "Account & App",
-  "hint": "Tech issue If the user reports an issue with signing up, logging in, opening the camera, referral share link is not working, or accessing another app feature: Ask the user to send a screenshot of the "
+  "hint": "Tech issue If the user reports an issue with signing up, logging in, opening the camera, referral share link is not working, or accessing another app feature: Ask the user to send a screenshot of the ",
+  "text": "Tech issue If the user reports an issue with signing up, logging in, opening the camera, referral share link is not working, or accessing another app feature: Ask the user to send a screenshot of the error. Check whether the user's Android/iOS version is supported: Android: Version 7 or above. iOS: Version 15 or above. If the device version is supported, ask the user to switch their internet connection (e.g., from Wi-Fi to mobile data or vice versa). Ask the user to reinstall the app. If the issue is related to the camera, ask the user to check that they have enough storage space on the device. If the issue is still not resolved, submit a Tech Issue form with the full case details. Notes: Huawei devices without Google Play Store are not supported. Do not mention an SLA to the user."
  },
  {
   "id": "what-s-the-e-mail",
   "title": "What’s the E-mail",
   "group": "General inquiries",
   "bucket": "Account & App",
-  "hint": "What’s the E-mail Verify the user's device type through Freshchat. Provide the user with device-specific steps on how to get their registered email address (e.g., Gmail or iCloud)."
+  "hint": "What’s the E-mail Verify the user's device type through Freshchat. Provide the user with device-specific steps on how to get their registered email address (e.g., Gmail or iCloud).",
+  "text": "What’s the E-mail Verify the user's device type through Freshchat. Provide the user with device-specific steps on how to get their registered email address (e.g., Gmail or iCloud)."
  },
  {
   "id": "how-to-start-a-ride",
   "title": "How to start a ride",
   "group": "General inquiries",
   "bucket": "Ride Basics",
-  "hint": "How to start a ride Ensure location is enabled. Locate the nearest available scooter through the app. Select the scooter and tap Get Directions to navigate to its location. Scan the scooter's QR code."
+  "hint": "How to start a ride Ensure location is enabled. Locate the nearest available scooter through the app. Select the scooter and tap Get Directions to navigate to its location. Scan the scooter's QR code.",
+  "text": "How to start a ride Ensure location is enabled. Locate the nearest available scooter through the app. Select the scooter and tap Get Directions to navigate to its location. Scan the scooter's QR code. Apply a promo code, if available. Tap Unlock & Go. Unlock the scooter. Push the scooter manually and then tap Push & Go to start the ride. Note: The user must have sufficient balance and a valid card or verified ID."
  },
  {
   "id": "how-to-end-a-ride",
   "title": "How to end a ride",
   "group": "General inquiries",
   "bucket": "Ride Basics",
-  "hint": "How to end a ride Securely lock the scooter to a fixed object, such as a pole or tree. Tap End Ride in the app. Take a clear photo showing the scooter properly locked. Note: If a ride receipt is displ"
+  "hint": "How to end a ride Securely lock the scooter to a fixed object, such as a pole or tree. Tap End Ride in the app. Take a clear photo showing the scooter properly locked. Note: If a ride receipt is displ",
+  "text": "How to end a ride Securely lock the scooter to a fixed object, such as a pole or tree. Tap End Ride in the app. Take a clear photo showing the scooter properly locked. Note: If a ride receipt is displayed, this confirms that the ride has ended successfully."
  },
  {
   "id": "how-to-find-a-scooter",
   "title": "How to find a scooter",
   "group": "General inquiries",
   "bucket": "Ride Basics",
-  "hint": "How to find a scooter Inform the user about the currently available service areas. Ensure the user’s location is enabled. Locate the nearest available scooter via the app. Select the scooter and tap G"
+  "hint": "How to find a scooter Inform the user about the currently available service areas. Ensure the user’s location is enabled. Locate the nearest available scooter via the app. Select the scooter and tap G",
+  "text": "How to find a scooter Inform the user about the currently available service areas. Ensure the user’s location is enabled. Locate the nearest available scooter via the app. Select the scooter and tap Get Directions to navigate to its location. Area Manufacturer Alexandria, Heliopolis Kuickwheel, Yimi Downtown, Rehab, Mansoura, Helwan Kuickwheel, Navee Maadi Yimi, Navee Zahraa El Maadi Kuickwheel Note: If we are operating in the area but there are no scooters available, submit a Live Ops ticket for redistribution."
  },
  {
   "id": "referrals",
   "title": "Referrals",
   "group": "General inquiries",
   "bucket": "Promo Codes",
-  "hint": "Referrals How to use it Open the side menu in the app. Select Free Balance. Tap Share Your Code and send the referral link to your friends. Your friend must download the app using the shared link and "
+  "hint": "Referrals How to use it Open the side menu in the app. Select Free Balance. Tap Share Your Code and send the referral link to your friends. Your friend must download the app using the shared link and ",
+  "text": "Referrals How to use it Open the side menu in the app. Select Free Balance. Tap Share Your Code and send the referral link to your friends. Your friend must download the app using the shared link and complete their first paid ride. Note: You can share the referral link with up to 5 friends and earn 30 EGP for each successful referral. Referral Balance Not Received Request the referred user's phone number. Check the Dashboard to verify whether the referred user registered through the referral link. If the referral link was used, confirm that: The referred user has completed their first ride. The ride was successfully paid. The ride duration was more than 30 seconds and is counted as a successful ride. The referrer and referred user are not using the same device. Neither account has any linked or deleted accounts. Both accounts are active, not deleted, and do not have a negative balance. The referrer has not exceeded the maximum number of referral invitations. If all eligibility criteria are met, manually credit the referral reward to both accounts. If the referral link was not used or any eligibility criteria are not met, educate the user on the correct referral process and requirements."
  },
  {
   "id": "reservation",
   "title": "Reservation",
   "group": "General inquiries",
   "bucket": "Ride Basics",
-  "hint": "Reservation What’s the reservation The reservation feature allows users to reserve a scooter before reaching it, preventing others from unlocking or using it. Reservation fees are: 5 minutes: 9 EGP 10"
+  "hint": "Reservation What’s the reservation The reservation feature allows users to reserve a scooter before reaching it, preventing others from unlocking or using it. Reservation fees are: 5 minutes: 9 EGP 10",
+  "text": "Reservation What’s the reservation The reservation feature allows users to reserve a scooter before reaching it, preventing others from unlocking or using it. Reservation fees are: 5 minutes: 9 EGP 10 minutes: 12 EGP Note: Prime subscribers can reserve scooters free of charge for up to 15 reservations. How to reserve Open the app and locate the nearest available scooter. Select the scooter and tap Reserve. Choose the preferred reservation duration. Complete the payment to confirm the reservation. How to cancel/refund There is no option to cancel a reservation from the system. Normally, the reservation amount is non-refundable, unless there is an issue with the scooter. Note: If there is a location issue, the reservation amount can be refunded. If the user finds a nearby scooter instead: refund as a one-time exception and add a clear comment. If the user reserved the scooter by mistake: refund as a one-time exception and add a clear comment."
  },
  {
   "id": "can-t-find-the-scooter",
   "title": "Can’t find the scooter",
   "group": "General inquiries",
   "bucket": "Ride Basics",
-  "hint": "Can’t find the scooter Request the scooter code if it has not been provided by the user. Check the scooter's availability in the Dashboard. If the scooter is available, share its updated location and "
+  "hint": "Can’t find the scooter Request the scooter code if it has not been provided by the user. Check the scooter's availability in the Dashboard. If the scooter is available, share its updated location and ",
+  "text": "Can’t find the scooter Request the scooter code if it has not been provided by the user. Check the scooter's availability in the Dashboard. If the scooter is available, share its updated location and the latest scooter photo with the user. From the scooter page, click Ring to make the scooter emit a sound, helping the user locate it. Note: If the Lat/Lng is 0, share the location of the user's last ride with the user and the Ops team. If the scooter is still not found, disable the scooter and update the Ops team."
  },
  {
   "id": "total-number-of-rides",
   "title": "Total Number of Rides",
   "group": "General inquiries",
   "bucket": "Account & App",
-  "hint": "Total Number of Rides Check the user's total number of rides from the user page in the Dashboard. Guide the user on how to view their total rides in the app by navigating to Profile"
+  "hint": "Total Number of Rides Check the user's total number of rides from the user page in the Dashboard. Guide the user on how to view their total rides in the app by navigating to Profile",
+  "text": "Total Number of Rides Check the user's total number of rides from the user page in the Dashboard. Guide the user on how to view their total rides in the app by navigating to Profile"
  },
  {
   "id": "fraud",
   "title": "Fraud",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "Fraud Someone Else Used the Account or Started a Ride Instruct the user to delete their account from the Profile tab. This will automatically sign them out of all devices. After the account is deleted"
+  "hint": "Fraud Someone Else Used the Account or Started a Ride Instruct the user to delete their account from the Profile tab. This will automatically sign them out of all devices. After the account is deleted",
+  "text": "Fraud Someone Else Used the Account or Started a Ride Instruct the user to delete their account from the Profile tab. This will automatically sign them out of all devices. After the account is deleted, the user can create a new account using the same phone number. Notes: If the user requests a refund for a ride made by someone else, inform them that, unfortunately, a refund is not available. If the user has a remaining balance, advise them to contact Customer Support after creating the new account so the balance can be transferred to the new account. Amount Deducted Without Starting a Ride Request a screenshot from the user's banking app or digital wallet showing the transaction. The screenshot must clearly display the transaction date, time, and amount. Check the transaction history from the User page in the Dashboard and compare it with the screenshot. If the transaction is found, explain the reason for the deduction to the user. If the transaction is not found, ask the user whether the card may have been used on another account. If the transaction is still not found, advise the user to submit a complaint to their bank or digital wallet provider for further investigation. Advise the customer that they can remove their card from the app at any time, and guide them through the steps to remove it. Note: The deducted amount may be related to: Prime subscription. Auto Charge. The remaining balance of a previous ride. The minimum transaction amount required by the bank."
  },
  {
   "id": "complaint-follow-up",
   "title": "Complaint Follow-up",
   "group": "General inquiries",
   "bucket": "Requests & Support",
-  "hint": "Complaint Follow-up Check the app to verify the complaint status and any available feedback. If the complaint has been submitted: If feedback is available, inform the user of the outcome. If no feedba"
+  "hint": "Complaint Follow-up Check the app to verify the complaint status and any available feedback. If the complaint has been submitted: If feedback is available, inform the user of the outcome. If no feedba",
+  "text": "Complaint Follow-up Check the app to verify the complaint status and any available feedback. If the complaint has been submitted: If feedback is available, inform the user of the outcome. If no feedback is available yet, inform the user that the team will get back to them as soon as possible. Send the chat link via WhatsApp and mention the Team Leader. If no complaint has been submitted, inform the user that the team will get back to them as soon as possible and submit the complaint through the app."
  },
  {
   "id": "updating-account-information",
   "title": "Updating Account Information",
   "group": "General inquiries",
   "bucket": "Account & App",
-  "hint": "Updating Account Information Users can only update their email address through the Profile section in the side menu. Phone numbers cannot be changed. If the user wants to use a different phone number,"
+  "hint": "Updating Account Information Users can only update their email address through the Profile section in the side menu. Phone numbers cannot be changed. If the user wants to use a different phone number,",
+  "text": "Updating Account Information Users can only update their email address through the Profile section in the side menu. Phone numbers cannot be changed. If the user wants to use a different phone number, advise them to create a new account using the new number. Users can change the app language through the Side Menu by selecting Language and choosing their preferred language."
  },
  {
   "id": "tour-inquiry-grandfather",
   "title": "Tour inquiry (Grandfather)",
   "group": "General inquiries",
   "bucket": "Requests & Support",
-  "hint": "Tour inquiry (Grandfather) Inform the user that registration is free. The minimum age requirement is 21. Each participant must ride a scooter. Users can sign up through the form in our Instagram bio. "
+  "hint": "Tour inquiry (Grandfather) Inform the user that registration is free. The minimum age requirement is 21. Each participant must ride a scooter. Users can sign up through the form in our Instagram bio. ",
+  "text": "Tour inquiry (Grandfather) Inform the user that registration is free. The minimum age requirement is 21. Each participant must ride a scooter. Users can sign up through the form in our Instagram bio. If selected, our team will contact them with all the details."
  },
  {
   "id": "external-maintenance",
   "title": "External Maintenance",
   "group": "General inquiries",
   "bucket": "Requests & Support",
-  "hint": "External Maintenance Collect the following information from the user: Scooter model. Description of the issue. Contact phone number. Submit the External Maintenance Request form through the app. Infor"
+  "hint": "External Maintenance Collect the following information from the user: Scooter model. Description of the issue. Contact phone number. Submit the External Maintenance Request form through the app. Infor",
+  "text": "External Maintenance Collect the following information from the user: Scooter model. Description of the issue. Contact phone number. Submit the External Maintenance Request form through the app. Inform the user that their request has been recorded. Advise the user that they will be contacted within 2 weeks regarding their maintenance request."
  },
  {
   "id": "pricing-inquiry",
   "title": "Pricing inquiry",
   "group": "General inquiries",
   "bucket": "Pricing",
-  "hint": "Pricing inquiry Ask the user for the scooter type and the area they plan to ride in. If the user provides both details, share the applicable pricing and guide them on where to find pricing information"
+  "hint": "Pricing inquiry Ask the user for the scooter type and the area they plan to ride in. If the user provides both details, share the applicable pricing and guide them on where to find pricing information",
+  "text": "Pricing inquiry Ask the user for the scooter type and the area they plan to ride in. If the user provides both details, share the applicable pricing and guide them on where to find pricing information in the app. If the user does not provide the scooter type or area, share all available pricing options and explain how they can view the pricing in the app for future reference. Area Standard Scooter Pro Scooter Downtown, Heliopolis, Alexandria, Helwan, Mansoura Unlock Fee: EGP 3 Ride Cost: EGP 3/min Unlock Fee: EGP 3 Ride Cost: EGP 3.35/min Maadi Unlock Fee: EGP 3 Ride Cost: EGP 3.35/min Zahraa El Maadi Unlock Fee: EGP 3 Ride Cost: EGP 3/min Rehab Unlock Fee: EGP 3 Ride Cost: EGP 3.25/min Unlock Fee: EGP 3 Ride Cost: EGP 3.75/min"
  },
  {
   "id": "ride-cost",
   "title": "Ride cost",
   "group": "General inquiries",
   "bucket": "Pricing",
-  "hint": "Ride cost Ask the user which ride they are referring to if it has not been specified. Check the ride bill in the Dashboard and provide the user with the billing details. Explain the applicable pricing"
+  "hint": "Ride cost Ask the user which ride they are referring to if it has not been specified. Check the ride bill in the Dashboard and provide the user with the billing details. Explain the applicable pricing",
+  "text": "Ride cost Ask the user which ride they are referring to if it has not been specified. Check the ride bill in the Dashboard and provide the user with the billing details. Explain the applicable pricing and how the ride fare was calculated. Guide the user on how to view the ride bill in the app by navigating to Side Menu > Your Rides, then selecting the relevant ride."
  },
  {
   "id": "prepaid",
   "title": "Prepaid",
   "group": "General inquiries",
   "bucket": "Pricing",
-  "hint": "Prepaid Inform the user that they must have a minimum balance of 30 EGP available before starting each ride, even if they have a promo code applied. If the user is paying by card, explain the Auto Cha"
+  "hint": "Prepaid Inform the user that they must have a minimum balance of 30 EGP available before starting each ride, even if they have a promo code applied. If the user is paying by card, explain the Auto Cha",
+  "text": "Prepaid Inform the user that they must have a minimum balance of 30 EGP available before starting each ride, even if they have a promo code applied. If the user is paying by card, explain the Auto Charge feature and how it automatically charges the linked card when additional balance is required. Note: If the user requests a small balance top-up to start a ride, you can manually add up to 5 EGP to the user's account."
  },
  {
   "id": "payment-methods",
   "title": "Payment Methods",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "Payment Methods The following payment methods are currently supported: Debit cards Credit cards Meeza cards Telda cards International cards Digital wallets The following payment methods are not suppor"
+  "hint": "Payment Methods The following payment methods are currently supported: Debit cards Credit cards Meeza cards Telda cards International cards Digital wallets The following payment methods are not suppor",
+  "text": "Payment Methods The following payment methods are currently supported: Debit cards Credit cards Meeza cards Telda cards International cards Digital wallets The following payment methods are not supported: Neo (Mashreq Bank) Klivvr cards Vodafone Cash cards Egypt Post cards Note: You cannot start a new ride and then settle the negative balance using a bank card. If the transaction is processed through Paymob, all card types are accepted."
  },
  {
   "id": "how-to-charge-add-a-payment-method",
   "title": "How to charge/ add a payment method",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "How to charge/ add a payment method Ask the user which payment method they will use, then provide the appropriate steps accordingly. Using an E-Wallet Open the Side Menu and select Wallet. Tap Add Bal"
+  "hint": "How to charge/ add a payment method Ask the user which payment method they will use, then provide the appropriate steps accordingly. Using an E-Wallet Open the Side Menu and select Wallet. Tap Add Bal",
+  "text": "How to charge/ add a payment method Ask the user which payment method they will use, then provide the appropriate steps accordingly. Using an E-Wallet Open the Side Menu and select Wallet. Tap Add Balance and choose the package. Select Digital Wallet as the payment method. Complete the payment process. You may receive a one-time password (OTP) to authorize the transaction. Once the payment is successful, tap Proceed. Note: The account must be verified before proceeding. Using a Card Open the Side Menu and select Wallet. Tap Add Card. Enter the card details. Tap Add Balance and choose the package."
  },
  {
   "id": "how-to-remove-the-card",
   "title": "How to remove the card",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "How to remove the card Ask the user for the reason they want to remove the saved card and assist with any related issue, if applicable. If the user requests to remove the card, remove it from the User"
+  "hint": "How to remove the card Ask the user for the reason they want to remove the saved card and assist with any related issue, if applicable. If the user requests to remove the card, remove it from the User",
+  "text": "How to remove the card Ask the user for the reason they want to remove the saved card and assist with any related issue, if applicable. If the user requests to remove the card, remove it from the User page in the Dashboard. Guide the user on how to remove a saved card in the app: Go to Side Menu → Wallet. Tap Edit. Select Remove Card. Notes: If the user is only asking how to remove a saved card, provide the in-app steps only. If the user requests to remove a card from another account, we can verify ownership by asking for the last 4 digits of the card. A saved card cannot be removed if: The account has a negative balance. A linked account has a negative balance, and the user is either an abuser or has more than 3 related accounts. The account has an ongoing ride."
  },
  {
   "id": "auto-charge",
   "title": "Auto charge",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "Auto charge Open the Side Menu and select Wallet. Locate the Auto Charge feature. Enable or disable Auto Charge based on your preference. Note: The Auto Charge feature is available only for bank cards"
+  "hint": "Auto charge Open the Side Menu and select Wallet. Locate the Auto Charge feature. Enable or disable Auto Charge based on your preference. Note: The Auto Charge feature is available only for bank cards",
+  "text": "Auto charge Open the Side Menu and select Wallet. Locate the Auto Charge feature. Enable or disable Auto Charge based on your preference. Note: The Auto Charge feature is available only for bank cards. Auto Charge is not available for customized packages."
  },
  {
   "id": "settle-a-negative-balance",
   "title": "Settle a Negative Balance",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "Settle a Negative Balance Open the Side Menu and select Wallet. Tap Settle. Complete the payment process to clear the negative balance. Note: If the user is paying with a bank card, you can settle the"
+  "hint": "Settle a Negative Balance Open the Side Menu and select Wallet. Tap Settle. Complete the payment process to clear the negative balance. Note: If the user is paying with a bank card, you can settle the",
+  "text": "Settle a Negative Balance Open the Side Menu and select Wallet. Tap Settle. Complete the payment process to clear the negative balance. Note: If the user is paying with a bank card, you can settle the negative balance on the user's behalf."
  },
  {
   "id": "balance-transfer",
   "title": "Balance Transfer",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "Balance Transfer Balance transfers are not supported. However, the following exceptions apply: If the user has a linked account with a negative balance that is no longer accessible, the balance may be"
+  "hint": "Balance Transfer Balance transfers are not supported. However, the following exceptions apply: If the user has a linked account with a negative balance that is no longer accessible, the balance may be",
+  "text": "Balance Transfer Balance transfers are not supported. However, the following exceptions apply: If the user has a linked account with a negative balance that is no longer accessible, the balance may be transferred as an exception. If the user has a deleted account registered with the same phone number that still contains a remaining balance, the balance may be transferred to the new account."
  },
  {
   "id": "check-wallet-balance",
   "title": "Check Wallet Balance",
   "group": "General inquiries",
   "bucket": "Account & App",
-  "hint": "Check Wallet Balance Check the user's wallet balance from the User page in the Dashboard and inform them of the available balance. Guide the user on how to view their wallet balance in the app by navi"
+  "hint": "Check Wallet Balance Check the user's wallet balance from the User page in the Dashboard and inform them of the available balance. Guide the user on how to view their wallet balance in the app by navi",
+  "text": "Check Wallet Balance Check the user's wallet balance from the User page in the Dashboard and inform them of the available balance. Guide the user on how to view their wallet balance in the app by navigating to Side Menu → Wallet → History."
  },
  {
   "id": "can-t-add-a-card",
   "title": "Can’t add a card",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "Can’t add a card Ask the user for the card type and issuing bank, and verify that the card is supported. Confirm that the user has at least 100 EGP available in the account. Ask the user to try adding"
+  "hint": "Can’t add a card Ask the user for the card type and issuing bank, and verify that the card is supported. Confirm that the user has at least 100 EGP available in the account. Ask the user to try adding",
+  "text": "Can’t add a card Ask the user for the card type and issuing bank, and verify that the card is supported. Confirm that the user has at least 100 EGP available in the account. Ask the user to try adding the card as an International Card. If the issue persists, proceed to the next step. Advise the user to check with their bank to ensure the card is enabled for online transactions or to use an alternative supported payment method. Submit a ticket through the app for further investigation."
  },
  {
   "id": "failed-transaction",
   "title": "Failed transaction",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "Failed transaction 1. Amount Not Deducted Check the transaction Status in the Transactions tab of the Dashboard. It should show Failed. Review the Instant/Last Gateway Message to identify the reason f"
+  "hint": "Failed transaction 1. Amount Not Deducted Check the transaction Status in the Transactions tab of the Dashboard. It should show Failed. Review the Instant/Last Gateway Message to identify the reason f",
+  "text": "Failed transaction 1. Amount Not Deducted Check the transaction Status in the Transactions tab of the Dashboard. It should show Failed. Review the Instant/Last Gateway Message to identify the reason for the failure. If the reason is clear, explain it to the user and provide the appropriate guidance. If the reason is unclear, advise the user to contact their bank or wallet provider for further assistance. 2. Amount Deducted Case 1: Status = Failed & Instant/Last Gateway Message indicates a failure Inform the user that the payment was unsuccessful and the deducted amount is likely being held by the bank or wallet provider. Advise the user to contact their bank or wallet provider for the refund timeline, as they can confirm when the held amount will be released. Case 2: Status = Success & Last Gateway Message = Approved Request a screenshot from the user's banking app or digital wallet showing the successful deduction. Verify the transaction details and manually credit the deducted amount to the user's wallet. Submit a Failed Transactions form with the case details. Note: If the transaction status is Failed, the Instant Gateway Message shows Approved, and the Last Gateway Message shows Unknown / None, this means the transaction has been refunded."
  },
  {
   "id": "pending-transaction",
   "title": "Pending transaction",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "Pending transaction Request a screenshot from the user's banking app or digital wallet showing the successful payment. If the payment was deducted: Manually credit the amount to the user's wallet. Sub"
+  "hint": "Pending transaction Request a screenshot from the user's banking app or digital wallet showing the successful payment. If the payment was deducted: Manually credit the amount to the user's wallet. Sub",
+  "text": "Pending transaction Request a screenshot from the user's banking app or digital wallet showing the successful payment. If the payment was deducted: Manually credit the amount to the user's wallet. Submit a ticket through the app for further investigation. If the payment was not deducted, advise the user to contact their bank or digital wallet provider for further assistance. Note: The screenshot must clearly show the transaction date, time, and amount."
  },
  {
   "id": "dispute",
   "title": "Dispute",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "Dispute If the user reports that their wallet balance has disappeared or been deducted, follow these steps: Go to the User Page. Open Wallet and check the reason for the deduction. If the deduction is"
+  "hint": "Dispute If the user reports that their wallet balance has disappeared or been deducted, follow these steps: Go to the User Page. Open Wallet and check the reason for the deduction. If the deduction is",
+  "text": "Dispute If the user reports that their wallet balance has disappeared or been deducted, follow these steps: Go to the User Page. Open Wallet and check the reason for the deduction. If the deduction is due to a Dispute, inform the user accordingly. What does “Dispute” mean? A dispute occurs when the user raises a complaint with their bank to reverse a payment/transaction that was already used within the app. As a result, the amount is deducted again from the user's wallet, which may cause a negative balance. Important: The user's account cannot be reactivated until the outstanding amount is settled. The disputed amount cannot be transferred to another account."
  },
  {
   "id": "refund-request-to-a-bank-card-or-digital-wallet",
   "title": "Refund Request to a Bank Card or Digital Wallet",
   "group": "General inquiries",
   "bucket": "Payments & Wallet",
-  "hint": "Refund Request to a Bank Card or Digital Wallet Before processing the refund, verify that: Ask the user for the reason and assist with any related issue, if applicable. The user has a wallet balance e"
+  "hint": "Refund Request to a Bank Card or Digital Wallet Before processing the refund, verify that: Ask the user for the reason and assist with any related issue, if applicable. The user has a wallet balance e",
+  "text": "Refund Request to a Bank Card or Digital Wallet Before processing the refund, verify that: Ask the user for the reason and assist with any related issue, if applicable. The user has a wallet balance equal to or greater than the refund amount. The original top-up transaction was made within the last 3 months. We do not refund compensation amounts to the user's bank account or digital wallet. The refund is processed to the bank account linked to the card, so an expired card does not affect the refund. 1. User Does Not Have the Required Balance Inform the user that a partial refund can’t be processed. Advise the user to either: Use their wallet balance, or Top up the remaining amount until the wallet balance matches the original transaction amount. Note: If the difference is 5 EGP or less, process the refund without asking the user to top up the remaining amount. 2. User Has the Required Balance, but More Than 3 Months Have Passed Inform the user that the refund cannot be processed because the transaction is older than 3 months. Advise the user to use the available wallet balance for future rides. 3. User Has the Required Balance and the Transaction Is Within 3 Months Verify whether the original payment was made using a bank card or a digital wallet. If the payment was made by bank card: Inform the user that the refund may take up to 14 working days. If the user agrees, process the refund from the Bills tab and deduct the refunded amount from the user's wallet balance. If the payment was made by digital wallet: Inform the user that the refund may take up to 2 working days. If the user agrees, process the refund from the Bills tab and deduct the refunded amount from the user's wallet balance. Note: If the refund will be processed across more than one transaction, confirm this with the user. If the transactions will be refunded to different cards, this must be clearly noted."
  },
  {
   "id": "auto-end-warning",
   "title": "Auto end warning",
   "group": "Scooter Issues",
   "bucket": "Scooter & Fines",
-  "hint": "Auto end warning Scooter Was Moving Slowly Open the Ride Logs for the ride. Check whether an Auto End Warning was triggered. If an Auto End Warning is found: Inform the user that the scooter's speed w"
+  "hint": "Auto end warning Scooter Was Moving Slowly Open the Ride Logs for the ride. Check whether an Auto End Warning was triggered. If an Auto End Warning is found: Inform the user that the scooter's speed w",
+  "text": "Auto end warning Scooter Was Moving Slowly Open the Ride Logs for the ride. Check whether an Auto End Warning was triggered. If an Auto End Warning is found: Inform the user that the scooter's speed was automatically limited due to insufficient wallet balance. Explain that once the balance is depleted, the scooter speed is reduced to 5 km/h for up to 5 minutes, allowing the user to safely end the ride. Inform the user that these 5 minutes are chargeable. Note: As a one-time exception, you may refund the Auto End Warning charge. Ensure you leave a clear comment explaining the reason for the exception. If the negative balance was deducted from the user's card, it is still eligible for a refund; if the user requests a refund to their bank account, proceed according to the refund process."
  },
  {
   "id": "how-to-find-redeem-a-promo-code",
   "title": "How to find/redeem a promo code",
   "group": "General inquiries",
   "bucket": "Promo Codes",
-  "hint": "How to find/redeem a promo code Find Available Promo Codes Open the Side Menu. Select Notifications to view the available promo codes. Redeem a Promo Code Open the Side Menu and select Wallet. Tap Add"
+  "hint": "How to find/redeem a promo code Find Available Promo Codes Open the Side Menu. Select Notifications to view the available promo codes. Redeem a Promo Code Open the Side Menu and select Wallet. Tap Add",
+  "text": "How to find/redeem a promo code Find Available Promo Codes Open the Side Menu. Select Notifications to view the available promo codes. Redeem a Promo Code Open the Side Menu and select Wallet. Tap Add Code. Enter the promo code and tap Save. Scan the scooter's QR code. Tap Have a Promo Code, select the saved promo code, then tap Apply to activate it for the ride. Note: If the user saved a promo code but did not apply it to the ride and claims it was not used, check whether the promo code is still valid and eligible for the user. If it is still valid, educate the user that the promo code must be selected and applied before starting the ride."
  },
  {
   "id": "not-receiving-a-promo-code",
   "title": "Not receiving a promo code",
   "group": "General inquiries",
   "bucket": "Promo Codes",
-  "hint": "Not receiving a promo code Not Receiving Promo Code Notifications Confirm with the user whether app notifications are enabled in their device settings. If Notifications Are Enabled Check the Promos ta"
+  "hint": "Not receiving a promo code Not Receiving Promo Code Notifications Confirm with the user whether app notifications are enabled in their device settings. If Notifications Are Enabled Check the Promos ta",
+  "text": "Not receiving a promo code Not Receiving Promo Code Notifications Confirm with the user whether app notifications are enabled in their device settings. If Notifications Are Enabled Check the Promos tab to verify whether the user is eligible for any active promo codes. If the user is eligible: Share the eligible promo code with the user after confirming that it is still valid, and inform them of its conditions and expiration date. Submit a form for escalation and investigation to determine why the notification was not received. If the user is not eligible, handle the inquiry. If Notifications Are Disabled Advise the user to enable app notifications from their device settings to receive future promo code notifications. Check the Promos tab to verify whether the user is eligible for any active promo codes. If the user is eligible, share the eligible promo code with the user."
  },
  {
   "id": "requesting-a-code-credit",
   "title": "Requesting a code/credit",
   "group": "General inquiries",
   "bucket": "Promo Codes",
-  "hint": "Requesting a code/credit Requesting a Free Promo Code Inform the user that Customer Support does not provide promo codes directly, but you will check whether they are eligible for any active promotion"
+  "hint": "Requesting a code/credit Requesting a Free Promo Code Inform the user that Customer Support does not provide promo codes directly, but you will check whether they are eligible for any active promotion",
+  "text": "Requesting a code/credit Requesting a Free Promo Code Inform the user that Customer Support does not provide promo codes directly, but you will check whether they are eligible for any active promotions. Check the Promos tab to verify the user's eligibility. If the user is eligible: Share the eligible promo code with the user after confirming that it is still valid, and inform them of its conditions and expiration date. If the user is not eligible: Inform them that you have checked the available promotions, but they are not currently eligible for any promo codes. Educate the user on how to find future promo codes: Open the Side Menu. Select Notifications to view available promo codes. Advise the user to follow our official social media channels to stay updated on the latest promotions. Requesting Free Balance General Request Inform the user that Customer Support does not provide free balance upon request. Educate the user on how to earn free balance: Open the Side Menu. Select Free Balance. Requesting a Specific Amount to Start a Ride If the user requests 5 EGP or less to start a ride, manually credit the requested amount as an exception, up to 2 times within the last 30 days, even if the user's current balance is from compensation. Inform the user that this is an exception to help them start their ride."
  },
  {
   "id": "inquiry-about-receiving-a-promo-code-after-completing-the-required-rides",
   "title": "Inquiry About Receiving a Promo Code After Completing the Required Rides",
   "group": "General inquiries",
   "bucket": "Promo Codes",
-  "hint": "Inquiry About Receiving a Promo Code After Completing the Required Rides Verify that the user has met all the required promotion conditions. If the user is eligible, provide the promo code. If the use"
+  "hint": "Inquiry About Receiving a Promo Code After Completing the Required Rides Verify that the user has met all the required promotion conditions. If the user is eligible, provide the promo code. If the use",
+  "text": "Inquiry About Receiving a Promo Code After Completing the Required Rides Verify that the user has met all the required promotion conditions. If the user is eligible, provide the promo code. If the user has not met all the required conditions, inform them of the remaining requirements needed to become eligible for the promo code."
  },
  {
   "id": "promo-code-conditions",
   "title": "Promo code conditions",
   "group": "General inquiries",
   "bucket": "Promo Codes",
-  "hint": "Promo code conditions Ask the user for the promo code if it has not been provided. In the Dashboard, navigate to Promo Codes. Search for the promo code and review its terms and conditions. Explain the"
+  "hint": "Promo code conditions Ask the user for the promo code if it has not been provided. In the Dashboard, navigate to Promo Codes. Search for the promo code and review its terms and conditions. Explain the",
+  "text": "Promo code conditions Ask the user for the promo code if it has not been provided. In the Dashboard, navigate to Promo Codes. Search for the promo code and review its terms and conditions. Explain the applicable conditions and eligibility requirements to the user. Note: If the user shares a screenshot of a promo code pop-up and requests clarification, follow the same process."
  },
  {
   "id": "unable-to-save-a-promo-code",
   "title": "Unable to Save a Promo Code",
   "group": "General inquiries",
   "bucket": "Promo Codes",
-  "hint": "Unable to Save a Promo Code The user is not eligible Ask the user for the promo code if it has not been provided. If the user is unable to save a promo code, first verify whether they are eligible for"
+  "hint": "Unable to Save a Promo Code The user is not eligible Ask the user for the promo code if it has not been provided. If the user is unable to save a promo code, first verify whether they are eligible for",
+  "text": "Unable to Save a Promo Code The user is not eligible Ask the user for the promo code if it has not been provided. If the user is unable to save a promo code, first verify whether they are eligible for the promotion. Check the Promos tab to confirm whether the promo code was assigned to the user. If the promo code is not found, inform the user that they are not eligible for that promotion. If the user claims they received a promo code notification: Request a screen recording showing the notification and the user’s number. Verify that the notification was sent to the same phone number associated with the user's account. If the user is not eligible but the screen recording confirms that the promo code notification was sent to the same phone number, compensate the user with an amount equal to the promo code value. Eligible User Unable to Save a Promo Code Ask the user for the promo code if it has not been provided. Check the Promo tab to identify the error message displayed when attempting to save the promo code. Check the Promos tab to verify that the promo code was assigned to the user. Check whether the same promo code exists on any linked or deleted accounts associated with the user. If all checks are clear, compensate the user with an amount equal to the promo code value. Promo Code Capacity Reached Ask the user for the promo code if it has not been provided. Check the Promo tab to identify the error message displayed when attempting to save the promo code. In the Dashboard, navigate to Promo Codes and search for the promo code. Open the promo code details and compare the Capacity with the Used count. If the Used count has reached the Capacity, inform the user that the promo code has reached its maximum usage limit and can no longer be redeemed. Promo Code Already Redeemed Ask the user for the promo code if it has not been provided. Check the Promo tab to identify the error message displayed when attempting to save the promo code. In the Dashboard, open the User page and check the Used Promo Codes section. If the promo code has already been redeemed on the user's account: Inform the user that the promo code has already been used. Let them know when it was redeemed. If the promo code is not found on the user's account: Check the Promo tab to identify the error message displayed when attempting to save the promo code. If the promo code is found on a linked account: Inform the user which account redeemed the promo code. Explain that a promo code can only be redeemed once per device/linked accounts. Note: If the user claims that a promo code was not activated, follow the same process. Even if the related account has been unlinked, the user can’t redeem the promo code normally. Promo Code Expired Ask the user for the promo code if it has not been provided. Check the Promo tab to identify the error message displayed when attempting to save the promo code. In the Dashboard, navigate to Promo Codes and search for the promo code. Open the promo code details and check the Expiration Date. If the promo code has expired, inform the user of the expiration date and explain that the promo code can no longer be redeemed. Note: The user may have entered the promo code incorrectly. Always verify the promo code entered before proceeding with further troubleshooting."
  },
  {
   "id": "rabbit-prime",
   "title": "Rabbit Prime",
   "group": "General inquiries",
   "bucket": "Rabbit Prime",
-  "hint": "Rabbit Prime Rabbit Prime is a subscription that automatically renews unless canceled. For 79 EGP, Prime members receive: Free scooter unlocking. 15 free scooter reservations. How to Subscribe to Rabb"
+  "hint": "Rabbit Prime Rabbit Prime is a subscription that automatically renews unless canceled. For 79 EGP, Prime members receive: Free scooter unlocking. 15 free scooter reservations. How to Subscribe to Rabb",
+  "text": "Rabbit Prime Rabbit Prime is a subscription that automatically renews unless canceled. For 79 EGP, Prime members receive: Free scooter unlocking. 15 free scooter reservations. How to Subscribe to Rabbit Prime Open the Side Menu. Select Prime Plan. Tap Subscribe and complete the payment to activate your Prime membership. Note: Prime subscriptions can only be purchased using a bank card. New users have a 7 days free trial, available once per IP address. How to Cancel a Prime Subscription Open the Side Menu. Select Prime Plan. Tap Unsubscribe to cancel the automatic renewal of your Prime subscription. Note: The subscription benefits remain active until the end of the current billing period."
  },
  {
   "id": "prime-cancellation-request-complaint",
   "title": "Prime Cancellation Request (Complaint)",
   "group": "General inquiries",
   "bucket": "Rabbit Prime",
-  "hint": "Prime Cancellation Request (Complaint) Ask the user for the reason they want to cancel the Prime subscription and explain the Prime benefits. Check the user's account to verify whether any Prime benef"
+  "hint": "Prime Cancellation Request (Complaint) Ask the user for the reason they want to cancel the Prime subscription and explain the Prime benefits. Check the user's account to verify whether any Prime benef",
+  "text": "Prime Cancellation Request (Complaint) Ask the user for the reason they want to cancel the Prime subscription and explain the Prime benefits. Check the user's account to verify whether any Prime benefits have already been used. If the Prime benefits have been used: Inform the user that the subscription cannot be canceled or refunded. Offer to disable the automatic renewal instead. If the Prime benefits have not been used: Cancel the Prime subscription. Process a full refund for the subscription amount. Note: By default, the refund should be credited to the user's Rabbit wallet. If the user requests the refund to their original bank card, it can be processed accordingly. We can refund all unused subscriptions to the user's wallet. If the user requests a refund to their bank account, the subscription must not be older than 3 months. If the user has already used one unlock or reservation, the subscription can still be refunded as an exception."
  },
  {
   "id": "new-area-expansion-request",
   "title": "New Area/ Expansion Request",
   "group": "General inquiries",
   "bucket": "Requests & Support",
-  "hint": "New Area/ Expansion Request Ask the user to provide the following information if it has not been specified: The area name. The street or specific location, if available. A screenshot of the location f"
+  "hint": "New Area/ Expansion Request Ask the user to provide the following information if it has not been specified: The area name. The street or specific location, if available. A screenshot of the location f",
+  "text": "New Area/ Expansion Request Ask the user to provide the following information if it has not been specified: The area name. The street or specific location, if available. A screenshot of the location from Google Maps or the Rabbit app map. Submit an Expansion requests through the app. Inform the user that their request has been submitted and will be taken into consideration for future expansion. Note: If the user is requesting an increase in the number of scooters in an existing area, handle the inquiry without submitting an area expansion request."
  },
  {
   "id": "service-restricted-area-request",
   "title": "Service Restricted Area Request",
   "group": "General inquiries",
   "bucket": "Requests & Support",
-  "hint": "Service Restricted Area Request Ask the user for the reason for the request in detail. If the reason is valid: Ask the user to provide a screenshot of the restricted area from the app's map. Ask the u"
+  "hint": "Service Restricted Area Request Ask the user for the reason for the request in detail. If the reason is valid: Ask the user to provide a screenshot of the restricted area from the app's map. Ask the u",
+  "text": "Service Restricted Area Request Ask the user for the reason for the request in detail. If the reason is valid: Ask the user to provide a screenshot of the restricted area from the app's map. Ask the user to share their location. Inform the user that the complaint has been raised. Submit a ticket with all the required details."
  },
  {
   "id": "map-zones",
   "title": "Map Zones",
   "group": "General inquiries",
   "bucket": "Ride Basics",
-  "hint": "Map Zones Educate the user about the different map zones in the app: Green Zone: You can ride and park the scooter freely. Red Zone: You can ride within the zone, but you cannot end the ride or park t"
+  "hint": "Map Zones Educate the user about the different map zones in the app: Green Zone: You can ride and park the scooter freely. Red Zone: You can ride within the zone, but you cannot end the ride or park t",
+  "text": "Map Zones Educate the user about the different map zones in the app: Green Zone: You can ride and park the scooter freely. Red Zone: You can ride within the zone, but you cannot end the ride or park the scooter there. Grey Zone: Riding and parking are not permitted in this restricted area. Guide the user on how to use the map to locate the different zones before starting or ending a ride. Note: If the user asks about a specific street or area, check the map and provide the user with the available information."
  },
  {
   "id": "how-to-verify-your-account",
   "title": "How to Verify Your Account",
   "group": "General inquiries",
   "bucket": "Verification",
-  "hint": "How to Verify Your Account Open the Side Menu. Go to Your Profile. Tap Verify. Capture a clear photo of your identification document. Take a selfie to complete the verification process. Note: You can "
+  "hint": "How to Verify Your Account Open the Side Menu. Go to Your Profile. Tap Verify. Capture a clear photo of your identification document. Take a selfie to complete the verification process. Note: You can ",
+  "text": "How to Verify Your Account Open the Side Menu. Go to Your Profile. Tap Verify. Capture a clear photo of your identification document. Take a selfie to complete the verification process. Note: You can verify your account using a National ID, Passport (including Egyptian passports), or Residence. The main benefit of verifying your account is gaining access to Digital Wallet as a payment method. If the user attempts to verify their account 6 times in the same day and all attempts are rejected, the account will be blocked. The user can try to verify the account again after 24 hours."
  },
  {
   "id": "pending-id-verification-request",
   "title": "Pending ID Verification Request",
   "group": "General inquiries",
   "bucket": "Verification",
-  "hint": "Pending ID Verification Request Open the User page in the Dashboard. Navigate to the ID Verifications tab. Click View Verification Status. Review the submitted verification and ensure that: The selfie"
+  "hint": "Pending ID Verification Request Open the User page in the Dashboard. Navigate to the ID Verifications tab. Click View Verification Status. Review the submitted verification and ensure that: The selfie",
+  "text": "Pending ID Verification Request Open the User page in the Dashboard. Navigate to the ID Verifications tab. Click View Verification Status. Review the submitted verification and ensure that: The selfie is clear and matches the ID photo. The ID number matches the one displayed in the Dashboard. The user is 16 years old or older. The ID is not expired. The uploaded document is an original physical ID (hard copy). If all validation checks are successful: Click Save And Accept. If any validation check fails: Click Decline. Notes: If you click Save And Accept but receive an error indicating that the ID is duplicated, decline the verification request. For Passport and Residence verifications, click Accept Without Validation."
  },
  {
   "id": "rejected-id-verification-request",
   "title": "Rejected ID Verification Request",
   "group": "General inquiries",
   "bucket": "Verification",
-  "hint": "Rejected ID Verification Request Open the User page in the Dashboard. Navigate to the ID Verifications tab or ID Verification Transactions. Review the rejection reason and inform the user accordingly."
+  "hint": "Rejected ID Verification Request Open the User page in the Dashboard. Navigate to the ID Verifications tab or ID Verification Transactions. Review the rejection reason and inform the user accordingly.",
+  "text": "Rejected ID Verification Request Open the User page in the Dashboard. Navigate to the ID Verifications tab or ID Verification Transactions. Review the rejection reason and inform the user accordingly. The verification request may be rejected for one of the following reasons: A copy of the ID was submitted instead of the original physical ID. The ID numbers are unclear or unreadable. The ID has expired. The user completed OCR only without completing the full verification process. Face Match failed. The user is 15 years old or younger. Advise the user to submit a new verification request after correcting the identified issue."
  },
  {
   "id": "id-verification-removal",
   "title": "ID Verification Removal",
   "group": "General inquiries",
   "bucket": "Verification",
-  "hint": "ID Verification Removal Ask the user for the reason for removing the ID verification. Check the user's account and history before proceeding. If the account is new and the reason is valid: Add the use"
+  "hint": "ID Verification Removal Ask the user for the reason for removing the ID verification. Check the user's account and history before proceeding. If the account is new and the reason is valid: Add the use",
+  "text": "ID Verification Removal Ask the user for the reason for removing the ID verification. Check the user's account and history before proceeding. If the account is new and the reason is valid: Add the user's information to the ID Verification Form, even if the ID was already removed by Leads via WhatsApp. Inform the user that the SLA for ID removal is 24 hours. If the account is old: Check the user's ride history, related accounts, comments, and overall account history. If the user has a bad history: (e.g., seeker, abuser, bad behavior, negative balance, multiple related accounts, or rides completed using promo codes) Inform the user that, unfortunately, the ID cannot be removed once it has been registered on the account. If the user has a good history: Add the user's phone number and ID details to the ID Verification Form, even if the ID was removed by Leads via WhatsApp. Inform the user that the SLA for ID removal is 24 hours. Notes: If the user created an account, completed one or two rides using a promo code, deleted the account, and then created a new account, the ID may be removed once as an exception, with proper education provided to the user. The user should contact us from the account where the ID is registered, or, if the account has been deleted, we can validate them through the chat and ask them to send a photo of the ID. If the account linked to the ID has a negative balance, a transfer may be required. First, confirm the solution with the user, make sure that he contacts us from the new account so the transfer can be processed."
  },
  {
   "id": "unable-to-start-a-ride",
   "title": "Unable to Start a Ride",
   "group": "General inquiries",
   "bucket": "Account & App",
-  "hint": "Unable to Start a Ride Request a screenshot of the error message. If the error message is \\\"Not Available\\\": Ask for the scooter code if it has not been provided. In the Dashboard, navigate to Assets "
+  "hint": "Unable to Start a Ride Request a screenshot of the error message. If the error message is \"Not Available\": Ask for the scooter code if it has not been provided. In the Dashboard, navigate to Assets → ",
+  "text": "Unable to Start a Ride Request a screenshot of the error message. If the error message is \"Not Available\": Ask for the scooter code if it has not been provided. In the Dashboard, navigate to Assets → Vehicle List and search for the scooter. Check the scooter status: If the scooter is Inactive, inform the user of the reason (e.g., low battery, disabled due to a technical issue, or weather restrictions). If the scooter is Reserved, inform the user that it is currently reserved by another user. They can: Wait until the reservation expires. If the other user does not start a ride, they can use the scooter. Find another available scooter nearby. If the error message indicates that the account is suspended, open the User page in the Dashboard and identify the reason for the suspension. Handle the case based on the suspension reason: Auto End Ride / Ended by Scooter Check whether the last ride was Auto Ended or Ended by Scooter. The account may remain suspended due to either an unpaid fine or an unpaid negative balance. If the fine has not yet been waived, inform the user that they need to pay the fine before the account can be reactivated. If the negative balance is unpaid, inform the user that they need to settle the outstanding balance before the account can be reactivated. If the fine has been waived, the negative balance has been settled, and there are no other suspension reasons, activate the account. Note: The user is not charged a fine for the first two successful rides with Auto End. If the user's first ride was auto ended and they then started a new ride on the same scooter, waive the fine without asking the user for a photo. Negative Balance Inform the user that the ride ended normally, but the ride cost exceeded their wallet balance, resulting in a negative balance. Advise the user to settle the negative balance. Once paid, the account will be activated. Behavior Comment If the suspension is due to a Team Leader (TL) comment: Inform the user that the chat will be transferred and the account will be reviewed shortly by the concerned team. Transfer the chat to Rabbit Mobility. Leave a clear private note. If the comment was added by the Live Ops team: Refer the case to the TL to confirm whether the account should be reactivated. Suspected Abuser / Linked to Abuser Account If the user's account is linked to an abuser account, or you suspect the user is an abuser: Handle the user's inquiry normally and activate the account if eligible. Click “Is Smart Customer” in Freshchat. Submit the Blocked User Form. Linked Accounts Check all linked accounts. If none of the linked accounts have a negative balance, activate the account. If a linked account has a negative balance: Inform the user that the outstanding balance must be settled before the account can be activated. Offer to transfer the negative balance to the user's current account. If the user claims that the linked account does not belong to them and refuses to pay, review the following: If the user has more than three linked accounts with different names, they must settle the balance before activation. If the negative balance is from 2024 or earlier, you may unlink the account as a one-time exception, then educate the user. If the negative balance is from 2025 and is due to a fine, you may unlink the account as a one-time exception, then educate the user. If all checks are clear, activate the account. Notes: Always inform the user of the reason for the account suspension. If the last ride was Auto Ended and the account is still suspended, the suspension is not related to the ride, as the account should have been reactivated automatically after the fine was waived. Check for another suspension reason. Unlink Related Accounts Check the comments first to confirm whether the accounts were already unlinked. If they were previously delinked, do not unlink them again. If there is no related comment, check the user's related accounts. The user can have a maximum of 3 related accounts, with different account data. Notes: Do not unlink any deleted accounts. Adding a comment is mandatory on both accounts after unlinking."
  },
  {
   "id": "can-t-start-a-ride-lock-issue",
   "title": "Can’t start a ride (Lock issue)",
   "group": "Scooter Issues",
   "bucket": "Ride Problems",
-  "hint": "Can’t start a ride (Lock issue) During the Ride From the User page, select the active vehicle and click Force Unlock. If it works: Submit a Live Ops ticket, including the full case details. Refund the"
+  "hint": "Can’t start a ride (Lock issue) During the Ride From the User page, select the active vehicle and click Force Unlock. If it works: Submit a Live Ops ticket, including the full case details. Refund the",
+  "text": "Can’t start a ride (Lock issue) During the Ride From the User page, select the active vehicle and click Force Unlock. If it works: Submit a Live Ops ticket, including the full case details. Refund the wasted ride time. Compensate the user. Educate the user on how to unlock the scooter correctly. If it does not work, proceed to the next step. Click Restart. If it works: Submit a Live Ops ticket, including the full case details. Refund the wasted ride time. Compensate the user. Educate the user. If it does not work, proceed to the next step. Ask the user to send a clear photo of the scooter while it is locked. From Ride Logs, end the ride free of charge. Attach the user's photo. Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket, including the full case details. If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Compensate the user. If the scooter was reserved, refund the reservation amount. After the Ride Has Ended Scenario 1: The user did not use the scooter at all (ride duration is 3 minutes or less). Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket, including the full case details. If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Process a full refund. Compensate the user. If the scooter was reserved, refund the reservation amount. Educate the user on the correct unlocking procedure. Scenario 2: The user managed to unlock the scooter and continued the ride. Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket, including the full case details. If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Check Ride Logs to determine the wasted time. Refund the wasted time. Compensate the user. Notes: Each scooter manufacturer has its own unlocking guidance. Provide the appropriate instructions based on the scooter model. Always double-check the complaint details and the ride timeline, especially for issues reported during the ride. If: the user contacts support later during the same ride claiming the issue is still ongoing, the ride has ended and the user claims more wasted time than shown in the system, or the system does not show any evidence of the reported issue, you may refund and compensate the user as an exception: 2 exceptions per user per week (Sunday–Saturday). Zahraa users are allowed 4 exceptions per week. A clear mandatory comment must be added whenever an exception is granted. Manufacturer Guide KW Loosen the lock slightly and wait about 10 seconds. Press “Unlock” in the app. YIMI Twist the left-side lock slightly while pulling it downward to unlock it. Navee Press “Unlock” in the app and wait about 6 seconds. Pull the lock firmly outward."
  },
  {
   "id": "can-t-end-the-ride",
   "title": "Can’t end the ride",
   "group": "Scooter Issues",
   "bucket": "Ride Problems",
-  "hint": "Can’t end the ride Lock issue During the Ride From the User page, select the active vehicle, verify that the scooter's lock status is Unlocked, then click Force Unlock. If it works: Check the app firs"
+  "hint": "Can’t end the ride Lock issue During the Ride From the User page, select the active vehicle, verify that the scooter's lock status is Unlocked, then click Force Unlock. If it works: Check the app firs",
+  "text": "Can’t end the ride Lock issue During the Ride From the User page, select the active vehicle, verify that the scooter's lock status is Unlocked, then click Force Unlock. If it works: Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket, including the full case details. Refund the wasted ride time. Compensate the user. If it does not work, proceed to the next step. Click Restart. If it works: Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket, including the full case details. Refund the wasted ride time. Compensate the user. If it does not work, proceed to the next step. Ask the user to send a clear photo of the scooter showing that it is locked. From Ride Logs, end the ride. Attach the user's photo. Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket, including the full case details. If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Refund the wasted ride time. Compensate the user. After the Ride Has Ended Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket, including the full case details. If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Check Ride Logs to determine the wasted time. Refund the wasted ride time. Compensate the user. Note: If the user claims more wasted time than shown in the system, or the system does not show any evidence of the reported issue, you may refund and compensate the user as an exception after verifying the case: 3 exceptions per user per week (Sunday–Saturday). Zahraa users are allowed 4 exceptions per week. A clear mandatory comment must be added whenever an exception is granted. Not updating/ Incorrect accuracy From the User page, select the active vehicle and verify whether: The scooter location is not updating. The accuracy is 99. The latitude/longitude (Lat/Lng) is 0. Ask the user to send: A clear photo of the locked scooter. The scooter's current location. End the ride and attach the user's photo. Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket and include the exact scooter location in the ticket. If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Refund the wasted ride time. Compensate the user. Note: If the user claims more wasted time than shown in the system, or the system does not show any evidence of the reported issue, you may refund and compensate the user as an exception after verifying the case: 3 exceptions per user per week (Sunday–Saturday). Zahraa users are allowed 4 exceptions per week. A clear mandatory comment must be added whenever an exception is granted. Disable the scooter if the latitude/longitude (Lat/Lng) is 0 or the accuracy is 99. Photo issue During the Ride From the User page, select the active vehicle and verify that the scooter's lock status is Locked. Ask the user to send a clear photo of the locked scooter and screenshot of the error message. End the ride and attach the user's photo. Submit a Tech ticket, including the full case details. If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Refund the wasted ride time. Compensate the user. After the Ride Has Ended If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Check Ride Logs to determine the wasted ride time. Refund the wasted ride time. Compensate the user. Note: If the user claims more wasted time than shown in the system, or the system does not show any evidence of the reported issue, you may refund and compensate the user as an exception after verifying the case: 3 exceptions per user per week (Sunday–Saturday). Zahraa users are allowed 4 exceptions per week. A clear mandatory comment must be added whenever an exception is granted. Photo issue (User) Based on the VOC (e.g., battery died, camera is broken, etc.): During the Ride From the User page, select the active vehicle and verify that the scooter's lock status is Locked. Ask the user to send a clear photo of the locked scooter. End the ride and attach the user's photo. Submit a Live Ops ticket with the full case details only if there is no ride image. If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Refund the wasted ride time. After the Ride Has Ended If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Check Ride Logs to determine the wasted ride time. Refund the wasted ride time. Battery issue During the Ride From the User page, select the active vehicle and verify that the scooter's battery is 0%. Ask the user to send a clear photo of the locked scooter. End the ride and attach the user's photo. Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket with the full case details. Waive the fine if the ride was ended by the scooter. Refund the wasted ride time. Compensate the user. After the Ride Has Ended From the User page, check the ride details and verify that the battery at the end of the ride was 0%. Check whether a ride-end photo is attached: If there is no photo, ask the user to send a clear photo of the locked scooter and attach it to the case. Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket with the full case details. Waive the fine if the ride was ended by the scooter. Refund the wasted ride time. Compensate the user. Notes: If the scooter is locked on its own, try to unlock it from the Dashboard. If the scooter does not respond to the unlock action, end the ride normally without attaching the user's photo. If the ride duration is 3 minutes or less, end the ride free of charge or process a full refund for the user and if the scooter was reserved, refund the reservation amount. Even if the user does not provide a photo, the fine should still be waived and educate the user on the correct procedure. Close the Lock Wrong (scooter issue) Scooter Locked on Its Own During the Ride From the User page, select the active vehicle and click Force Unlock. If it works: Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket, including the full case details. Refund the wasted ride time. Compensate the user. Educate the user to wrap the lock around the fixed pole and secure it properly before ending the ride. If Force Unlock does not work, click Restart. If it works: Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket, including the full case details. Refund the wasted ride time. Compensate the user. Educate the user on the correct way to secure and lock the scooter. If Restart does not work: Ask the user to send a clear photo of the scooter. From Ride Logs, end the ride. Do not attach the user's photo. Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket, including the full case details. If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Refund the wasted ride time. Compensate the user. Educate the user on the correct way to secure the lock. After the Ride Has Ended If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well. Submit a Live Ops ticket, including the full case details. Check Ride Logs to determine the wasted ride time. Refund the wasted ride time. Compensate the user. Educate the user on the correct way to secure the lock. Note: If the user claims more wasted time than shown in the system, or the system does not show any evidence of the reported issue, you may refund and compensate the user as an exception after verifying the case: 3 exceptions per user per week (Sunday–Saturday). Zahraa users are allowed 4 exceptions per week. A clear mandatory comment must be added whenever an exception is granted. Close the Lock Wrong (user issue) From the User page, select the vehicle and click Force Unlock. If it works: Ask the user to send a clear photo of the scooter. Attach the user's photo. Educate the user on the correct way to secure and lock the scooter. If Force Unlock does not work, click Restart. If it works: Ask the user to send a clear photo of the scooter. Attach the user's photo. Educate the user on the correct way to secure and lock the scooter. If Restart does not work: Ask the user to send a clear photo of the scooter. Do not attach the user's photo. Submit a Live Ops ticket, including the full case details. If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. Educate the user on the correct way to secure the lock. Unlocked Scooter Found Ask the user for the scooter code. Ask if the user is available to lock the scooter properly. If the user agrees: From the Scooter Page, click Force Unlock. Ask the user to lock the scooter properly and send a photo confirming that it is locked. Once the photo is received, attach it from the Ride Page. If the user does not agree or leaves: Inform the Live Ops team and share the available details. Note: If the user does not have the scooter code, ask for the location or exact address of the scooter. Red zone During the Ride Inform the user that they need to return to the Green Zone to end the ride. Educate the user about the Green and Red Zones. If the ride was ended by the scooter, waive the fine. Keep in mind that each user has one exception available for this case. If the exception is used, educate the user on the correct procedure. You may refund the wasted ride time as a one-time exception. If the user claims they are in a Green Zone: Ask the user to send a screenshot of their location on the app map. If the screenshot confirms that they are in a Green Zone: Ask for their locat"
  },
  {
   "id": "user-issues-due-to-lack-of-education",
   "title": "User Issues Due to Lack of Education",
   "group": "Scooter Issues",
   "bucket": "Scooter & Fines",
-  "hint": "User Issues Due to Lack of Education Opened the Scooter by Mistake Check the Location History to verify whether the scooter moved. If the scooter moved: End the ride and charge the user. Educate the u"
+  "hint": "User Issues Due to Lack of Education Opened the Scooter by Mistake Check the Location History to verify whether the scooter moved. If the scooter moved: End the ride and charge the user. Educate the u",
+  "text": "User Issues Due to Lack of Education Opened the Scooter by Mistake Check the Location History to verify whether the scooter moved. If the scooter moved: End the ride and charge the user. Educate the user on the correct procedure. Submit a Live Ops ticket if the user does not provide a photo of the locked scooter. A clear mandatory comment must be added. If the scooter did not move: End the ride for free as a one-time exception. Educate the user on the correct procedure. Submit a Live Ops ticket. A clear mandatory comment must be added. Stolen Scooter End the ride and charge the user. Share the scooter's location the user to confirm that it is properly locked. Submit a Live Ops ticket. Educate the user. User Kept the Ride Open End the ride and charge the user. Ask the user if they have a photo of the scooter that can be attached to the ride. Refund the wasted ride time. Educate the user on the correct procedure. Submit a Live Ops ticket if the user does not provide a photo of the locked scooter. Note: If the issue is caused by the scooter, follow the normal scooter issue process. Ride Ending Delay If the user takes time to end the ride, this is not considered a scooter issue. A refund can be granted for up to 2 exceptions within the user's last 10 rides. Educate the user on the correct ride ending process. A mandatory comment must be added: “Ride Ending Education Exception”. Select “Other” as the refund reason. Reupload Image Ask the user if they have a clear photo of the scooter properly locked around a pole or tree. If the user has a suitable photo, take the photo and attach it to the ride. If the user does not have a suitable photo, educate them on how to take a clear photo of the scooter properly locked for future rides."
  },
  {
   "id": "scooter-issues",
   "title": "Scooter issues",
   "group": "Scooter Issues",
   "bucket": "Scooter & Fines",
-  "hint": "Scooter issues There are two types of issues: Type 1: Non-Critical Scooter Issues If the user complains about any of the following: Flashlight Handle Vibrating Flap Mobile holder Bell Signs Kickstand "
+  "hint": "Scooter issues There are two types of issues: Type 1: Non-Critical Scooter Issues If the user complains about any of the following: Flashlight Handle Vibrating Flap Mobile holder Bell Signs Kickstand ",
+  "text": "Scooter issues There are two types of issues: Type 1: Non-Critical Scooter Issues If the user complains about any of the following: Flashlight Handle Vibrating Flap Mobile holder Bell Signs Kickstand Process: Handle the user's inquiry normally. If the user has a good history, send the full case details to the TL for compensation approval, and ensure there is a clear comment documenting the case and the approval, including who approved it. Submit a Live Ops ticket. Type 2: Critical Scooter Issues If the user complains about any of the following: Throttle Scooter not moving Scooter not stable Scooter stopped suddenly Tires Brakes Low speed Low battery Process: The user is eligible for 1 full refund and compensation per issue per week (Sunday–Saturday). If the scooter was reserved, refund the reservation amount. Check the app first. If it is the second issue of the same type, disable the scooter. If it is the third issue of a different type, disable the scooter as well, except in low battery/speed cases. Submit a Live Ops ticket, except in low battery cases. Starting from the 2nd complaint, check the scooter's history before processing any refund or compensation. How to check the scooter history: Verify that the rides duration on the same day is more than 3 minutes. Check Ride Issue Reports under the ride in the Dashboard. Check the Ops app. Check the maintenance records from the Vehicle page. If an issue is found in any of the above checks: Compensate the user. If the scooter was reserved, refund the reservation amount. A mandatory comment must be added. If the same issue is reported twice on the same day, or 3 different issues are reported on the same scooter on the same day: Disable the scooter. Submit a Live Ops ticket. Unlock was opened without a ride Ask the user for the scooter code. Disable the scooter. Submit a Live Ops ticket."
  },
  {
   "id": "fyi",
   "title": "FYI",
   "group": "General inquiries",
   "bucket": "Requests & Support",
-  "hint": "FYI Rides & Scooters Each account is allowed to initiate only one active ride at a time. There are three scooter models available: Navee, Yimi, and Kuickwheel ; this information is for internal use on"
+  "hint": "FYI Rides & Scooters Each account is allowed to initiate only one active ride at a time. There are three scooter models available: Navee, Yimi, and Kuickwheel ; this information is for internal use on",
+  "text": "FYI Rides & Scooters Each account is allowed to initiate only one active ride at a time. There are three scooter models available: Navee, Yimi, and Kuickwheel ; this information is for internal use only and should not be shared with users. Maximum Speed: 25 km/h. Maximum Rider Weight: 120 kg. The ride must be 30 seconds or more to be counted as a successful ride. Each area has two scooter manufacturers. Internal Teams Battery charging is handled by a dedicated internal team. This process is confidential. Theft and accident cases are handled by a dedicated specialized team and are not managed through Customer Support. Wallet & Cards Wallet top-up limit: Up to EGP 2,000 from the user's side, and up to EGP 1,000 for wallet deductions or additions by the customer support. If the card is added through Paymob, an OTP may or may not be required, depending on the bank’s policies. If the user has a negative balance that has not been settled, the system will retry the payment 5 days after the first attempt, then once every day afterward. The user can add the same card to a maximum of 3 accounts. Promo Codes Only one promo code can be applied per ride. WE Points promo codes are valid for Rabbit Mart only and are not applicable to Rabbit Mobility Even if the user has a promo code, they must still add sufficient balance to their wallet before starting the ride to prevent the ride from being automatically stopped due to insufficient funds. However, if the user starts a ride using a percentage based promo code without sufficient balance, the negative balance may be removed as a one time exception, with proper user education. If the user reports a ride issue while using a promo code, refund the code amount only for free minutes or free amount codes; for percentage based codes, refund the deducted amount plus the promo code amount, also add the exact Pro scooter rate and unlock fee to the refund. Partnerships, Jobs & Marketing We do not sell scooters or accept privately owned scooters to rent out in exchange for a share of the revenue. If a user is interested in partnering with us, direct them to send their partnership details to contact@rabbit-app.com. If a user would like to apply for a job, advise them to follow our LinkedIn page for open positions or send their CV to contact@rabbit-app.com. Scooter rentals are not currently available. If the Marketing team publishes an engagement post and the user replies with a simple acknowledgment (e.g., “I know how to do it”), do not handle the case; close it directly. However, if the user asks a question or requests information, respond and handle the case as usual."
  },
  {
   "id": "qa-tips",
   "title": "QA tips",
   "group": "General inquiries",
   "bucket": "Requests & Support",
-  "hint": "QA tips Chats & Escalation Spam Chats If the user does not mention any issue and remains idle, send a greeting: \\\"Hello! How may I help you?\\\" If there is no response after 3 minutes, send the Since s"
+  "hint": "QA tips Chats & Escalation Spam Chats If the user does not mention any issue and remains idle, send a greeting: \"Hello! How may I help you?\" If there is no response after 3 minutes, send the Since scr",
+  "text": "QA tips Chats & Escalation Spam Chats If the user does not mention any issue and remains idle, send a greeting: \"Hello! How may I help you?\" If there is no response after 3 minutes, send the Since script. Before treating the conversation as spam, always check for: Any previous chats with the user. If a previous chat or complaint is found, follow the standard support flow instead of handling the conversation as spam. If the same user contacts the same agent, and the previous conversation was resolved within the last 10 minutes, the agent may skip the greeting and continue assisting the user. If a chat is disconnected from another agent, do not transfer it back unless you have confirmed that the agent is online and ready to handle it. If a chat is received from a Rabbit employee or someone who previously worked for Rabbit, do not take any action. Assign the chat to the Rabbit account. If the user has submitted two consecutive DSATs on the same day, handle the user's inquiry according to the standard support process, then transfer the chat to the Rabbit account after resolving the issue. If the user reports two issues in the same chat, label the chat based on the more severe issue. If the user has an issue and the necessary guidance has been provided, always follow up with the user in the chat to confirm that the resolution has successfully solved their issue before ending the conversation. Calls & Language Calling a Customer Ask the user if they are available to receive a call. If the user agrees, inform them: \"I will contact you right now.\" After completing the call, post a summary of the call in the chat conversation (do not add it as a private note). Send the appropriate closure message. Handling Aggressive Language If the user uses extreme or abusive language directed at the agent or the company: Do not reply. Assign the chat to Rabbit. Inform the Team Leader. If the user uses inappropriate language that does not reach the level of extreme abuse: Send the appropriate warning message. Exceptions, Fines & Compensation Any exception must have a clear comment documenting the reason and approval, if the issue is resolved without an exception, leave a correction comment. If the user was fined by Ops because the scooter locked on its own or the ride end photo was unclear: If it is the user's first occurrence, waive the fine as a one-time exception and educate the user on the correct procedure. If it is a repeated occurrence, refer back to the Team Leader (TL). If the user provides a photo for an auto-ended ride on their own, there is no need to provide education. If the user has two complaints and is eligible for compensation for both, provide the higher compensation amount only. Keep in mind that a user who has completed only one ride should be considered to have a good history. If the user complains that all of their rides have issues, refer the case to your TL for further review. Whenever the user contacts us regarding an old ride, validate the case and take the necessary action. Feedback & Complaints If the user leaves negative feedback, handle the reported issue following the standard support process. Handle price complaints according to the standard process. If the user does not understand the fare calculation, educate them on how the ride price was calculated. Comments and mentions on social media are out of Customer Support's scope. If the user suggests any idea or solution, make sure to fill out the form. Accounts & Data The scooter code is mandatory for all issues; if there is more than one scooter, separate the codes using “-” with no spaces. We do not provide the user with any personal or account data. If the correct account is not found by phone number, search by email address before asking the user for their number, and confirm the account details only if needed."
  }
 ]
