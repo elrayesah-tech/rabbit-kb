@@ -4,8 +4,8 @@
   "title": "OTP issue",
   "group": "General inquiries",
   "bucket": "Account & App",
-  "hint": "OTP issue Ask the user to send a screenshot to verify that their phone number and country code are entered correctly Ask the user for their preferred OTP delivery channel (SMS, Call, or WhatsApp). Gen",
-  "text": "OTP issue Ask the user to send a screenshot to verify that their phone number and country code are entered correctly Ask the user for their preferred OTP delivery channel (SMS, Call, or WhatsApp). Generate an OTP through the Dashboard. Enter the user's phone number, including the country code. Click Check Number. Select the preferred delivery channel: Send via WhatsApp or Send via SMS. Inform the user that the OTP is valid for 10 minutes and must be used before it expires. Notes: If the user does not specify a preferred channel, always send the OTP via WhatsApp; if WhatsApp is unavailable, send it via SMS. The OTP delivery sequence alternates between SMS and WhatsApp, with a 30 second interval between attempts: SMS > WhatsApp > SMS > WhatsApp. "
+  "hint": "OTP issue Ask the user to send a screenshot to verify that their phone number and country code are entered correctly Ask the user for their preferred OTP delivery channel (SMS or WhatsApp). Generate a",
+  "text": "OTP issue Ask the user to send a screenshot to verify that their phone number and country code are entered correctly Ask the user for their preferred OTP delivery channel (SMS or WhatsApp). Generate an OTP through the Dashboard. Enter the user's phone number, including the country code. Click Check Number. Select the preferred delivery channel: Send via WhatsApp or Send via SMS. Inform the user that the OTP is valid for 10 minutes and must be used before it expires. Notes: If the user does not specify a preferred channel, always send the OTP via WhatsApp; if WhatsApp is unavailable, send it via SMS. The OTP delivery sequence alternates between SMS and WhatsApp, with a 30 second interval between attempts: SMS > WhatsApp > SMS > WhatsApp. "
  },
  {
   "id": "wrong-phone-number",
